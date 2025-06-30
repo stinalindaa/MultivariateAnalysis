@@ -1,7 +1,8 @@
 ---
 title: "Chapter 4 - Principal Component Analysis"
-output: html_document
+output: github_document
 date: "2024-02-12"
+always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
