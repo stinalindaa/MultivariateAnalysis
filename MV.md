@@ -35,7 +35,7 @@ df |>
   as_tibble() |>
   pivot_longer(cols = 1:6, names_to = "variable", values_to = "value") |>
   ggplot(aes(x = variable, y = value)) +
-  geom_boxplot(color = 'blue') + theme_bw() + ggtitle("Standardized Process Variables")
+  geom_boxplot() + theme_bw() + ggtitle("Standardized Process Variables")
 ```
 
 ![](MV_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
