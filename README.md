@@ -9,5 +9,3 @@
 ### In Partial Fulfillment
 ### of the Requirements for the Degree
 ### Master of Science in Applied Statistics
-
-test 2 for 7/20/25
