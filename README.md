@@ -1,11 +1,10 @@
-# MultivariateAnalysis
+# Multivariate Analysis of Manufacturing Process Data
 
-## Statistical and Machine Learning Insights in Manufacturing: A Project Report
-## Ch 4 - Principal Component Analysis
 
-### Presented to the Department of Mathematics and Statistics
-### California State University, Long Beach
+### Overview 
 
-### In Partial Fulfillment
-### of the Requirements for the Degree
-### Master of Science in Applied Statistics
+This project applies clustering and dimensionality reduction techniques to manufacturing process data. 
+
+The goal is to group similar product types and reduce complexity in high-dimensional datasets, making it easier to uncover structure in the production process. 
+
+This repository is part of my Applies Statistics Thesis Project.
